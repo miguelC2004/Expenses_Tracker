@@ -16,3 +16,5 @@ El Expense Tracker App es una aplicación móvil desarrollada en Python utilizan
 1. Clona este repositorio en tu máquina local.
 2. Asegúrate de tener Python 3 instalado en tu sistema.
 3. Instala las dependencias ejecutando el siguiente comando:
+
+## ©2023 Miguel Angel Cataño Zapata. Todos los derechos reservados. Expense Tracker es una aplicación desarrollada por Miguel Angel Cataño Zapata. Queda prohibida la reproducción, distribución o modificación total o parcial de esta aplicación sin el permiso previo por escrito de los titulares de los derechos."
