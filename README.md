@@ -4,7 +4,7 @@
 
 El Expense Tracker App es una aplicación móvil desarrollada en Python utilizando el framework Kivy. Esta aplicación te permite realizar un seguimiento de tus gastos diarios y llevar un registro detallado de tus transacciones financieras.
 
-## Características principales
+## Características principales (y a futuro)
 
 - Registro de gastos: Registra tus gastos diarios y asigna categorías para un seguimiento preciso.
 - Estadísticas y gráficos: Visualiza tus gastos en forma de gráficos interactivos y obten estadísticas sobre tus patrones de gastos.
